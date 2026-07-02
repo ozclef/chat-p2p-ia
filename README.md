@@ -13,8 +13,20 @@
 
 ---
 
+_______
+
 
 ###  Noviembre 2025
+
+version noviembre-2025.
+
+https://ozclef.github.io/chat-p2p-ia/
+
+<img width="425" height="600" alt="image" src="https://github.com/user-attachments/assets/8cddc4d0-427a-4695-9ec5-44c16e5aa0ac" />
+
+------
+
+____
 
 
 
